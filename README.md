@@ -31,7 +31,8 @@ Un autre avantage est le fait qu’il y a peu d’accrochage entre les vues, les
 
 
 3.	La maniére de gestion des demandes des clients :
- 
+ ![capture](https://user-images.githubusercontent.com/44054584/48837631-2364a880-ed86-11e8-8f7c-f67fb1379b86.PNG)
+
 
 
 4.	Les technologies choisies :
