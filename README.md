@@ -18,7 +18,8 @@ Ce dernier peut disparaître sans perturber l'application cliente qui trouvera u
 
 2.	Architecture de la couche donnée :
 MVC (Model-View-Controller) est un style d’architecture de logiciel très populaire vous permettant d’être efficace & structuré lors du développement d’un projet.
- 
+![370px-modelemvc](https://user-images.githubusercontent.com/44054584/48837438-a802f700-ed85-11e8-8f24-8bfd1f4b4cbf.png)
+
 Le M, modèle (model) représente les données et ne fait rien d’autre, il ne dépend donc pas des vues & des contrôleurs.
 Le V, vue (view) affiche les données que le modèle contient à l’utilisateur, ex : formulaire, bouton, etc... (Un modèle peut contenir plusieurs vues)
 Le C, contrôleur (controller) traite les données de l’utilisateur, il dépend et interagit avec le modèle ainsi que la vue (Dans certains cas il est possible que la vue & le contrôleur soient le même objet).
